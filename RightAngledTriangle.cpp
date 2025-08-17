@@ -2,10 +2,7 @@
 
 using namespace std;
 int main() {
-    int base, height, hypotenuse;
-    base = 10;
-    height =7;
-    hypotenuse = 12;
+    int base =10, height = 7, hypotenuse = 12;
 
     // Calculate the area of the right-angled triangle
     double area = 0.5 * base * height;

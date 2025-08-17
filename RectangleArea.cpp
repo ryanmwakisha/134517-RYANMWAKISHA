@@ -5,7 +5,7 @@ int main(){
     //Declare variables for the rectangles dimensions
     int length; //Length of the rectangle
     int width;  //Width of the rectangle
-    string fName, lName; //First and last name of the user
+    string fName, lName; //First name of the user
 
     //Prompt the user for the length and width of the rectangle
     cout << "Enter the length of the rectangle: ";
